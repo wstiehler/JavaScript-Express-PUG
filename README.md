@@ -1,7 +1,7 @@
 ##### O objetivo desse repositório é estudar JavaScript - Express e PUG 
 
 
-## RUN
+### RUN
 
 * npm install
 * npm start
